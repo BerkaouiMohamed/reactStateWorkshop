@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aqua;
+    height: 70px;
+
+}
+
+.navbar .nav{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    
+}
